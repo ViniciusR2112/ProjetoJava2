@@ -1,0 +1,15 @@
+packege on. digitalinovation.gof.strategy;
+*SingletonLazy
+
+public class Robo{
+private Comportamento strategy; 
+
+public void setStrategy(Comportamento strategy){
+this.comportamento =comportamento 
+}
+
+public void mover(){
+
+comportamento .mover();
+}
+}
